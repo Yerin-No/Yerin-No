@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Python-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Python-339933?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/PHP-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/PHP-4479A1?style=flat-square&logo=PHPL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
