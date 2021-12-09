@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-339933?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
-<img src="https://img.shields.io/badge/PHP-4479A1?style=flat-square&logo=PHPL&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/PHP-4479A1?style=flat-square&logo=PHP&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> &nbsp 
